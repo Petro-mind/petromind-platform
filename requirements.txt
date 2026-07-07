@@ -1,0 +1,31 @@
+# PetroMind Core Dependencies
+gradio>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# API Dependencies
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+python-multipart>=0.0.6
+
+# Groq LLM Integration
+groq>=0.8.0
+
+# Hugging Face LLM Integration
+huggingface_hub>=0.20.0
+
+# RAG Dependencies (from PetroMind-RAG-book)
+sentence-transformers>=2.2.0
+pinecone-client>=3.0.0
+
+# ML Dependencies (from base-pipeline)
+torch>=2.0.0
+scikit-learn>=1.3.0
+
+# Tavily Web Search for Work Order Retrieval
+tavily>=1.0.0
+
+# Test Dependencies
+pytest>=7.0.0

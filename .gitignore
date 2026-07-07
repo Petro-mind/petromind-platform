@@ -1,0 +1,36 @@
+# Large data files
+data/
+*.h5
+*.npy
+*.pt
+*.pth
+kaggle_cache/
+
+# Credentials - DO NOT PUSH
+rag_config.py
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+venv/
+.env
+
+# Checkpoints
+checkpoints*/
+diagnostic_plots/
+
+# Generated logs
+test_output.log
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local dev utilities
+close_ide.bat
