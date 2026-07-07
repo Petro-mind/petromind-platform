@@ -1,3 +1,9 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/Petro-mind/main
+[submodule "Petro-mind_Agentic_Part"]
+	path = Petro-mind_Agentic_Part
+	url = https://github.com/Petro-mind/Petro-mind_Agentic_Part
+[submodule "PetroMind_RAG"]
+	path = PetroMind_RAG
+	url = https://github.com/Petro-mind/PetroMind_RAG
